@@ -1,5 +1,5 @@
 # Contacts
-This C code is an implementation of a contact book using a trie data structure and linked lists.
+This CLI based app is an implementation of a contact book using a trie data structure and linked lists.
 
 The Trie data structure in this code is defined as a structure that has a character "letra" to store the current character of the word, a pointer to a "Contacto" structure to store the contact information when the trie node represents a complete word, and a pointer to a linked list of child Trie nodes representing the next characters in the word.
 
